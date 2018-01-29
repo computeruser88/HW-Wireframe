@@ -18,13 +18,12 @@ nav{
     color: #777;
     margin-top: 20px;
 }
-section, article, heading, p {
+article, heading, p {
     line-height: 300%;
 }
 section {
     background: #ebebeb;
     color: #777;
-    line-height: 400%;
     width: 495px;
     height: 265px;
     margin-top: 20px;
