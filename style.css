@@ -5,8 +5,11 @@ body {
     width: 960px;
     line-height: 400%;
     text-align: center;
+    position: relative;
+    margin: 0 auto;
 }
 header, footer {
+    margin-top: 20px;
     background: #ebebeb;
     width: 960px;
     margin-bottom: 20px;
@@ -70,6 +73,9 @@ p {
 footer {
     position: relative;
     top: 20px;
+}
+.container {
+    margin: 0 auto;
 }
 .clear {
     clear: both;
